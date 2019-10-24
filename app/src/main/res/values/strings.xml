@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mouse</string>
+    <string name="action_settings">Settings</string>
+    <string name="left_click">Left Click</string>
+    <string name="right_click">Right Click</string>
+    <string name="mouse_app">Mouse App!</string>
+</resources>
